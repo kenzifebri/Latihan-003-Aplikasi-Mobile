@@ -1,4 +1,4 @@
-# Tugas Individu 2 - Computational Thinking (Perpustakaan)
+# Tugas Individu
 
 Nama: Kenzie Gabriel
 NIM: 1124160008
